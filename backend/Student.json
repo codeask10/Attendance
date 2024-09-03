@@ -1,0 +1,73 @@
+[
+    {
+      "name": "John Doe",
+      "rollNumber": 1,
+      "email": "john.doe@example.com",
+      "blood_group": "A+",
+      "contact_number": "9876543210"
+    },
+    {
+      "name": "Jane Smith",
+      "rollNumber": 2,
+      "email": "jane.smith@example.com",
+      "blood_group": "B+",
+      "contact_number": "8765432109"
+    },
+    {
+      "name": "Michael Johnson",
+      "rollNumber": 3,
+      "email": "michael.johnson@example.com",
+      "blood_group": "AB+",
+      "contact_number": "7654321098"
+    },
+    {
+      "name": "Emily Brown",
+      "rollNumber": 4,
+      "email": "emily.brown@example.com",
+      "blood_group": "O+",
+      "contact_number": "6543210987"
+    },
+    {
+      "name": "Daniel Lee",
+      "rollNumber": 5,
+      "email": "daniel.lee@example.com",
+      "blood_group": "A-",
+      "contact_number": "9432109876"
+    },
+    {
+      "name": "Olivia Garcia",
+      "rollNumber": 6,
+      "email": "olivia.garcia@example.com",
+      "blood_group": "B-",
+      "contact_number": "7321098765"
+    },
+    {
+      "name": "David Martinez",
+      "rollNumber": 7,
+      "email": "david.martinez@example.com",
+      "blood_group": "O-",
+      "contact_number": "9210987654"
+    },
+    {
+      "name": "Sophia Rodriguez",
+      "rollNumber": 8,
+      "email": "sophia.rodriguez@example.com",
+      "blood_group": "AB-",
+      "contact_number": "8109876543"
+    },
+    {
+      "name": "Matthew Wilson",
+      "rollNumber": 9,
+      "email": "matthew.wilson@example.com",
+      "blood_group": "A+",
+      "contact_number": "7098765432"
+    },
+    {
+      "name": "Isabella Taylor",
+      "rollNumber": 10,
+      "email": "isabella.taylor@example.com",
+      "blood_group": "B+",
+      "contact_number": "9876534210"
+    }
+  ]
+  
